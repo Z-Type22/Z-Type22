@@ -31,4 +31,4 @@
 
 ## Телеграм для связи со мной:
 
-[![Telegram](https://img.shields.io/badge/Telegram-@your_telegram_placeholder-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_placeholder)
+<a href="https://t.me/CheckEZ777"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
