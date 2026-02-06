@@ -1,62 +1,32 @@
-# Full-Stack разработчик
+## Я full-stack разработчик с опытом более 3 лет, специализируюсь на создании веб-сайтов.
 
-Я full-stack разработчик с **опытом более 3 лет**, специализируюсь на создании современных веб-приложений, API и сервисов. В своей работе уделяю особое внимание архитектуре, читаемости кода, производительности и масштабируемости решений.
-
-Основной фокус — **full-stack разработка** с использованием:
-- **Frontend**: React.js, Next.js, Vue.js  
-- **Backend**: Django, FastAPI  
-
-Имею опыт как в разработке пользовательских интерфейсов, так и в проектировании серверной логики, REST API, асинхронных сервисов и интеграций.
-
+Основной фокус:
+- **Frontend**: React.js, Next.js
+- **Backend**: Django, FastAPI 
 ---
 
 ## 🛠️ Стек технологий и инструментов
 
-### Языки программирования
-- Python  
-- JavaScript  
-
-### Backend
-- Django  
-- FastAPI  
-- aiohttp  
-- aiogram  
-
-### Frontend
-- React.js  
-- Next.js  
-- Vue.js  
-
-### Базы данных и хранилища
-- PostgreSQL  
-- MySQL  
-- Redis  
-
-### Инфраструктура и DevOps
-- Docker  
-- CI/CD  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white),
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white),
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat),
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat),
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black),
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black),
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white),
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white),
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white),
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=githubactions&logoColor=white),
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white),
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white),
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
 
 ---
 
-## 📦 Репозитории
-
-Большая часть моего **основного и коммерческого кода находится в приватных репозиториях**.  
-В будущем здесь планируется публикация **публичных pet-проектов**, экспериментов и open-source решений.
-
-Следите за обновлениями 👀
+Большая часть моего основного кода находится в приватных репозиториях.  
+В будущем здесь планируется публикация pet-проектов.
 
 ---
-
-## 📫 Контакты
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_telegram_placeholder)
-
----
-
-## 🚀 Немного обо мне
-
-- Люблю чистый и понятный код  
-- Интересуюсь архитектурой, асинхронностью и оптимизацией  
-- Постоянно развиваюсь и изучаю новые технологии  
-
-Спасибо, что заглянули в мой профиль!
