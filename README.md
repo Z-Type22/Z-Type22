@@ -1,16 +1,62 @@
-## Hi there 👋
+# Full-Stack разработчик
 
-<!--
-**Z-Type22/Z-Type22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я full-stack разработчик с **опытом более 3 лет**, специализируюсь на создании современных веб-приложений, API и сервисов. В своей работе уделяю особое внимание архитектуре, читаемости кода, производительности и масштабируемости решений.
 
-Here are some ideas to get you started:
+Основной фокус — **full-stack разработка** с использованием:
+- **Frontend**: React.js, Next.js, Vue.js  
+- **Backend**: Django, FastAPI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Имею опыт как в разработке пользовательских интерфейсов, так и в проектировании серверной логики, REST API, асинхронных сервисов и интеграций.
+
+---
+
+## 🛠️ Стек технологий и инструментов
+
+### Языки программирования
+- Python  
+- JavaScript  
+
+### Backend
+- Django  
+- FastAPI  
+- aiohttp  
+- aiogram  
+
+### Frontend
+- React.js  
+- Next.js  
+- Vue.js  
+
+### Базы данных и хранилища
+- PostgreSQL  
+- MySQL  
+- Redis  
+
+### Инфраструктура и DevOps
+- Docker  
+- CI/CD  
+
+---
+
+## 📦 Репозитории
+
+Большая часть моего **основного и коммерческого кода находится в приватных репозиториях**.  
+В будущем здесь планируется публикация **публичных pet-проектов**, экспериментов и open-source решений.
+
+Следите за обновлениями 👀
+
+---
+
+## 📫 Контакты
+
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_telegram_placeholder)
+
+---
+
+## 🚀 Немного обо мне
+
+- Люблю чистый и понятный код  
+- Интересуюсь архитектурой, асинхронностью и оптимизацией  
+- Постоянно развиваюсь и изучаю новые технологии  
+
+Спасибо, что заглянули в мой профиль!
