@@ -5,7 +5,7 @@
 - **Backend**: Django, FastAPI 
 ---
 
-## 🛠️ Стек технологий и инструментов
+## 🛠️ Стэк
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-Большая часть моего основного кода находится в приватных репозиториях.  
+Основной код лежит в приватных репозиториях.  
 В будущем здесь планируется публикация pet-проектов.
 
 ---
