@@ -26,6 +26,6 @@ Main Focus:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## TELEGRAM:
+## GMAIL:
 
-<a href="https://t.me/CheckEZ777"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="hihilolrr@gmail.com"><img src="https://img.shields.io/badge/Email-mymail%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
