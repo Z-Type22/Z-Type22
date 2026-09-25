@@ -28,4 +28,4 @@ Main Focus:
 
 ## GMAIL:
 
-<a href="hihilolrr@gmail.com"><img src="https://img.shields.io/badge/Email-mymail%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+hihilolrr@gmail.com
